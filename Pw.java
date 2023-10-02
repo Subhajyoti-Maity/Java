@@ -1,7 +1,5 @@
-Class PW
-{
-public void ml()
-{
-   /// code  
+public class Pw {
+    public static void main(String[] args) {
+        System.out.println("Pw");
 }
 }
